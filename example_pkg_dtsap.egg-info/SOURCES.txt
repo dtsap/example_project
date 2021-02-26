@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+example_pkg/__init__.py
+example_pkg_dtsap.egg-info/PKG-INFO
+example_pkg_dtsap.egg-info/SOURCES.txt
+example_pkg_dtsap.egg-info/dependency_links.txt
+example_pkg_dtsap.egg-info/top_level.txt
